@@ -18,7 +18,7 @@ T ex inom AI har många utvecklare använt JS för att bygga webbsidor och syste
 Bara för att nämna några exempel, Javascript är ett av de mest kraftfulla och mångsidiga språken för frontendutvecklare som tillåter dig att skapa nästan vad som helst. Det ger en utvecklare stor flexibilitet och kontroll över användarupplevelsen på webben, vilket gör det till ett nödvändigt verktyg i moderna webbapplikationer. 
 
 
-3. __Vad är JSON och hur används det inom frontend?__
+2. __Vad är JSON och hur används det inom frontend?__
    
 JSON eller Javascript Object Notation är ett lättviktigt datautbytesformat. Det används för att skicka data från backend till frontend. Oftast kommer datan från en server och backend omvandlar detta till JSON. 
 JSON har två huvudsakliga datastrukturer:
@@ -28,7 +28,7 @@ Eftersom formatet endast är text kan JSON-data skickas mellan datorer och anvä
 Sammafattningsvis används JSON inom frontend-utveckling för att hantera och utbyta data mellan klienten och servern. 	
 
 
-4. __Vad är HTTP och varför bör man som frontendutvecklare ha kunskap om det och dess protokoll?__
+3. __Vad är HTTP och varför bör man som frontendutvecklare ha kunskap om det och dess protokoll?__
 
 HTTP eller hypertext Transfer Protocol är grunden för all datakommunikation på internet. Detta protokoll gör det möjligt för din webbläsare att hämta och visa webbsidor och i detta finns HTTP-metoder som definierar de åtgärder en klient kan utföra. 
 Dessa HTTP-metoder har var och en ett specifikt syfte och ger ett standardiserat sätt för klienter såsom webbläsare eller applikationer att interagera med webbservrar. 
